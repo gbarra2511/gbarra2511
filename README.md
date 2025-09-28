@@ -2,7 +2,7 @@
 I'm Gustavo Barra Felizardo<br>Computer Science student at UFMG and Undergraduate Researcher at FUTURELAB/DCC-UFMG.<br>
 Enthusiast of Artificial Intelligence, currently working on projects involving machine learning, and innovative AI applications. In addition to my research activities, I am involved in initiatives to democratize AI knowledge, helping advance technology and contribute to the training of new generations of developers. I am always seeking new challenges and opportunities for growth.
 
-[1](comet://newtab/)
+[](comet://newtab/)
 
 
 ## 🌐 Socials:
